@@ -57,7 +57,7 @@ const App: React.FC = () => {
               >
                 Why Talkado
               </button>
-              <PremiumButton onClick={() => (window.location.href = "http://chat.talkado.xyz/")}>
+              <PremiumButton onClick={() => (window.location.href = "https://chat.talkado.xyz/")}>
                 Start Creating
               </PremiumButton>
             </nav>
@@ -85,7 +85,7 @@ const App: React.FC = () => {
                   Why Talkado
                 </button>
                 <div className="pt-2">
-                  <PremiumButton onClick={() => (window.location.href = "http://chat.talkado.xyz/")}>
+                  <PremiumButton onClick={() => (window.location.href = "https://chat.talkado.xyz/")}>
                     Start Creating
                   </PremiumButton>
                 </div>
